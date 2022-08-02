@@ -1,5 +1,6 @@
 FROM cgshome2/secure-notebook
 
-RUN /bin/bash -c "conda install tensorflow-gpu==2.6.2 -y"
+RUN /bin/bash -c "conda install tensorflow-gpu==2.2.0 -c anaconda -y"
+
 # CUDA 11.2 & cuDNN 8.1 (2.5.0, 2.6.0, 2.7.0)  
 # CUDA 10.1 & cuDNN 7.6 (2.1.0, 2.2.0, 2.3.0)
