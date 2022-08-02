@@ -1,0 +1,1600 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "signature": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "signature": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "signature": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "signature": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.full.d.ts": {
+        "version": "d2f31f19e1ba6ed59be9259d660a239d9a3fcbbc8e038c6b2009bde34b175fed",
+        "signature": "d2f31f19e1ba6ed59be9259d660a239d9a3fcbbc8e038c6b2009bde34b175fed",
+        "affectsGlobalScope": false
+      },
+      "./src/awareness.ts": {
+        "version": "1cc5962247039b137028f5fd78c400b67a7680b3012b133930a9fed7e3908198",
+        "signature": "d76f07f54a33b4180037f97633eef075357332c2d9c5962324eb42313fe8c95b",
+        "affectsGlobalScope": false
+      },
+      "./src/mock.ts": {
+        "version": "6fedd41f75b0443b2459bc3e00f7985fd02760bc0b840e99f59fc1ef3a29f4e0",
+        "signature": "a05ad0636016c5e19a3706a009e74d834f49dfaced27fd8b5be0d90f7bb9d3c4",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/coreutils/types/json.d.ts": {
+        "version": "44a4b5ef53f2ff94bfcfa223e3fc3ad35f32bef57337e050513dd7c729a0cb63",
+        "signature": "44a4b5ef53f2ff94bfcfa223e3fc3ad35f32bef57337e050513dd7c729a0cb63",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/coreutils/types/mime.d.ts": {
+        "version": "47dbb9212d0f309e56914de06038a91ad4f0ce9e28a200ebe7c8268bada8fede",
+        "signature": "47dbb9212d0f309e56914de06038a91ad4f0ce9e28a200ebe7c8268bada8fede",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/coreutils/types/promise.d.ts": {
+        "version": "a57ee34edf8791c8c4395ada1fb459df7aad714838555ab306729b66db795840",
+        "signature": "a57ee34edf8791c8c4395ada1fb459df7aad714838555ab306729b66db795840",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/coreutils/types/token.d.ts": {
+        "version": "facc62a0c8748f37d6c85d3e5a6eb4cd1d40a899d4ee2c360c9ec4756513931c",
+        "signature": "facc62a0c8748f37d6c85d3e5a6eb4cd1d40a899d4ee2c360c9ec4756513931c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/coreutils/types/index.common.d.ts": {
+        "version": "d59884537fee2053545586c2ea66e27ae54fa0e59e9fec4ef58b9bb3eb3a676c",
+        "signature": "d59884537fee2053545586c2ea66e27ae54fa0e59e9fec4ef58b9bb3eb3a676c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/coreutils/types/random.d.ts": {
+        "version": "f58caa451ccf0cdc2834698380fa13f964033178d0cb73cce5d2fd2ba0cfbade",
+        "signature": "f58caa451ccf0cdc2834698380fa13f964033178d0cb73cce5d2fd2ba0cfbade",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/coreutils/types/random.browser.d.ts": {
+        "version": "42b37508de20026ecfb53ad4293a3fb1d5ceac85d03f4d831c999db3f2d942cc",
+        "signature": "42b37508de20026ecfb53ad4293a3fb1d5ceac85d03f4d831c999db3f2d942cc",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/coreutils/types/uuid.browser.d.ts": {
+        "version": "6bb2babdac69f5089b8e5d645977aa18301e6c9ddd8e80fdd5996149235ffe35",
+        "signature": "6bb2babdac69f5089b8e5d645977aa18301e6c9ddd8e80fdd5996149235ffe35",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/coreutils/types/index.d.ts": {
+        "version": "741e32002f767357ff950d74855ea336e51409738f861e6d5a163cd4b0450bd2",
+        "signature": "741e32002f767357ff950d74855ea336e51409738f861e6d5a163cd4b0450bd2",
+        "affectsGlobalScope": false
+      },
+      "../nbformat/lib/index.d.ts": {
+        "version": "2ffb6539ee354e561c489603b226ad7f484aa1e8920eda91d3d0d1e46f7d3872",
+        "signature": "2ffb6539ee354e561c489603b226ad7f484aa1e8920eda91d3d0d1e46f7d3872",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/array.d.ts": {
+        "version": "df52f40fae2bd287b9fb52f0d4cd6978891f5b9e12c8bc4b51f5aeb20673db24",
+        "signature": "df52f40fae2bd287b9fb52f0d4cd6978891f5b9e12c8bc4b51f5aeb20673db24",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/iter.d.ts": {
+        "version": "95a373d620cf8adb5baa4d4f18c0880d9279761d742075693b64dcfe25d93249",
+        "signature": "95a373d620cf8adb5baa4d4f18c0880d9279761d742075693b64dcfe25d93249",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/chain.d.ts": {
+        "version": "59c71ace3907b7558202ab9fb0fc29d0f000455e6addb8891476ea6f29704fb0",
+        "signature": "59c71ace3907b7558202ab9fb0fc29d0f000455e6addb8891476ea6f29704fb0",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/empty.d.ts": {
+        "version": "ac222059167c12b97693a32458d469428079921ef2e21a41370e192f679559a4",
+        "signature": "ac222059167c12b97693a32458d469428079921ef2e21a41370e192f679559a4",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/enumerate.d.ts": {
+        "version": "49fa72b3dd09f2d8cfa8538f3aba53644e90a99866c486a1e535f6e45a809019",
+        "signature": "49fa72b3dd09f2d8cfa8538f3aba53644e90a99866c486a1e535f6e45a809019",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/filter.d.ts": {
+        "version": "4bd953ab46129d1a06fc848cc1e04f69d003cba1010839ae5f11d9a8ecc1b45c",
+        "signature": "4bd953ab46129d1a06fc848cc1e04f69d003cba1010839ae5f11d9a8ecc1b45c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/find.d.ts": {
+        "version": "985be8579445c37fccc690db36529d9197abac484b76e2374845eda82fc134be",
+        "signature": "985be8579445c37fccc690db36529d9197abac484b76e2374845eda82fc134be",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/map.d.ts": {
+        "version": "778e780516d0cfa36e160dcdbc2cc64193fb13853c4019bafeb2adc39d4b6f95",
+        "signature": "778e780516d0cfa36e160dcdbc2cc64193fb13853c4019bafeb2adc39d4b6f95",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/range.d.ts": {
+        "version": "61821a4dfe8525bb4082648600ecd1f945698fb65a0bbf4fa2b6e160751fe5e1",
+        "signature": "61821a4dfe8525bb4082648600ecd1f945698fb65a0bbf4fa2b6e160751fe5e1",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/reduce.d.ts": {
+        "version": "6f2192fe22e5aed3e61ae7891921feb8601bfa101161c7b522965d709210cc41",
+        "signature": "6f2192fe22e5aed3e61ae7891921feb8601bfa101161c7b522965d709210cc41",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/repeat.d.ts": {
+        "version": "39effd6ab75c733dd48cbe43a91658cec9cf86db5a961d3b091d8194b7e7b573",
+        "signature": "39effd6ab75c733dd48cbe43a91658cec9cf86db5a961d3b091d8194b7e7b573",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/retro.d.ts": {
+        "version": "431207ccbae58b4046cba4a5956beeea69a151defc993bcba16b357cbc8871e7",
+        "signature": "431207ccbae58b4046cba4a5956beeea69a151defc993bcba16b357cbc8871e7",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/sort.d.ts": {
+        "version": "2053f012d9d8edaeb4b66bb65120888dd342be84316cc7b85e78cae9ceade349",
+        "signature": "2053f012d9d8edaeb4b66bb65120888dd342be84316cc7b85e78cae9ceade349",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/stride.d.ts": {
+        "version": "bcfae0d75f0dd13b0d0bd6bb6a1a527076f23d48335a1530211d4926556edf4d",
+        "signature": "bcfae0d75f0dd13b0d0bd6bb6a1a527076f23d48335a1530211d4926556edf4d",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/string.d.ts": {
+        "version": "b8186710d384b0b58f9ac2e8e9e4a8cf6385718fd47f12adfca9e163def1fa5e",
+        "signature": "b8186710d384b0b58f9ac2e8e9e4a8cf6385718fd47f12adfca9e163def1fa5e",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/take.d.ts": {
+        "version": "2e55931399ada20784a0903627d3e7cac14e6849ef7e589f32907ed733160af0",
+        "signature": "2e55931399ada20784a0903627d3e7cac14e6849ef7e589f32907ed733160af0",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/zip.d.ts": {
+        "version": "425744ecce376e0c201eb15a24df23c20b9f9222c25501a64147191255f1a5bb",
+        "signature": "425744ecce376e0c201eb15a24df23c20b9f9222c25501a64147191255f1a5bb",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/algorithm/types/index.d.ts": {
+        "version": "d9700500170f5138bbb3b59ede0d2303486b24826a19dd242eaaa667a3735b63",
+        "signature": "d9700500170f5138bbb3b59ede0d2303486b24826a19dd242eaaa667a3735b63",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/signaling/types/index.d.ts": {
+        "version": "11e5e4c5983c5150410112a156503aa02b29fed56100314eb3a77334a5e2ec6c",
+        "signature": "11e5e4c5983c5150410112a156503aa02b29fed56100314eb3a77334a5e2ec6c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@lumino/disposable/types/index.d.ts": {
+        "version": "80a29bdb045c8403249b0df81e2c660139556735e363b9228b9e6ed731576cfe",
+        "signature": "80a29bdb045c8403249b0df81e2c660139556735e363b9228b9e6ed731576cfe",
+        "affectsGlobalScope": false
+      },
+      "../shared-models/lib/api.d.ts": {
+        "version": "a7d88ddc37a080200cdaf74ef85fd719b37ca092db6f2039e664331e608bc398",
+        "signature": "a7d88ddc37a080200cdaf74ef85fd719b37ca092db6f2039e664331e608bc398",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/lib0/observable.d.ts": {
+        "version": "8677c84dd96426659c02d8204af67d286b4ff1e647a7b94d0fe174fdb81b7f05",
+        "signature": "8677c84dd96426659c02d8204af67d286b4ff1e647a7b94d0fe174fdb81b7f05",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/lib0/random.d.ts": {
+        "version": "1693c15bbff444e98c1b3a73001bc25d34d2b02062cabd540d4999a1013418e7",
+        "signature": "1693c15bbff444e98c1b3a73001bc25d34d2b02062cabd540d4999a1013418e7",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/lib0/encoding.d.ts": {
+        "version": "cf8cb39427c47c7eaa7c9a28b88c315e26b3d73dbc18503d81e55cda9009493f",
+        "signature": "cf8cb39427c47c7eaa7c9a28b88c315e26b3d73dbc18503d81e55cda9009493f",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/lib0/decoding.d.ts": {
+        "version": "628d5df7f8ef586aad586aa41d180436929f7860813dc1c19ec418e328225f66",
+        "signature": "628d5df7f8ef586aad586aa41d180436929f7860813dc1c19ec418e328225f66",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts": {
+        "version": "02e8d6b9f3c89e7ad07c65a486c8387cf862a4c4e7c4d3cb7f51598c7ec057a6",
+        "signature": "02e8d6b9f3c89e7ad07c65a486c8387cf862a4c4e7c4d3cb7f51598c7ec057a6",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts": {
+        "version": "f3745a58f2bd7ed2c210e882e95b67d0707f97b9ed7b2431f68e5cccec0e20ba",
+        "signature": "f3745a58f2bd7ed2c210e882e95b67d0707f97b9ed7b2431f68e5cccec0e20ba",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts": {
+        "version": "ef31e112135506de69dd265d650a12fe0658899266cf49f785f387980fad3e3a",
+        "signature": "ef31e112135506de69dd265d650a12fe0658899266cf49f785f387980fad3e3a",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/YEvent.d.ts": {
+        "version": "4112f1cc336d892dfef4af1067b68afcfc206d008a8bf4c122de6e63af3624a5",
+        "signature": "4112f1cc336d892dfef4af1067b68afcfc206d008a8bf4c122de6e63af3624a5",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/Transaction.d.ts": {
+        "version": "19aa7f71571f7c4c9cff5180ba9deec1ee76d1e679c3174bda44e790c81e5709",
+        "signature": "19aa7f71571f7c4c9cff5180ba9deec1ee76d1e679c3174bda44e790c81e5709",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/EventHandler.d.ts": {
+        "version": "e7c738913fab4ba4b00fcf1d1eb1ddf8989b64355da34250407340f4894a2384",
+        "signature": "e7c738913fab4ba4b00fcf1d1eb1ddf8989b64355da34250407340f4894a2384",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts": {
+        "version": "da23a9065db521ac08ae997289eb4b0a243985fc483e12a5a99f955b9ed485d0",
+        "signature": "da23a9065db521ac08ae997289eb4b0a243985fc483e12a5a99f955b9ed485d0",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/types/AbstractType.d.ts": {
+        "version": "15d5e08509641a32cd2a678b1753f2164c6a12bcaea14d63f02352f997ed4ae5",
+        "signature": "15d5e08509641a32cd2a678b1753f2164c6a12bcaea14d63f02352f997ed4ae5",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/ID.d.ts": {
+        "version": "431eef47c55a88198c1cc62ea7c9c7537c3219c3fd652c554d3d5bb7a63658a1",
+        "signature": "431eef47c55a88198c1cc62ea7c9c7537c3219c3fd652c554d3d5bb7a63658a1",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts": {
+        "version": "ee5af755629403e296dcc1bb67c3d405ba2996eb2111ce0d6af5cf39df258e73",
+        "signature": "ee5af755629403e296dcc1bb67c3d405ba2996eb2111ce0d6af5cf39df258e73",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/GC.d.ts": {
+        "version": "bff0c7f141843b45d97a0bf25543a5584668c4226ef0d638d5fc47da882556e5",
+        "signature": "bff0c7f141843b45d97a0bf25543a5584668c4226ef0d638d5fc47da882556e5",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/StructStore.d.ts": {
+        "version": "c206de0c479b525406ae29fd4399b18ae6177235e1f46e59fc3065e83542f683",
+        "signature": "c206de0c479b525406ae29fd4399b18ae6177235e1f46e59fc3065e83542f683",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/Item.d.ts": {
+        "version": "d31b2bf699e90b8b60c11711f01486106de3c714b1beaf9892df472cc81108b4",
+        "signature": "d31b2bf699e90b8b60c11711f01486106de3c714b1beaf9892df472cc81108b4",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/types/YArray.d.ts": {
+        "version": "e53997284dc9306b029b78ca40b62b3e23a04527a4a397e539a40efa25e2192a",
+        "signature": "e53997284dc9306b029b78ca40b62b3e23a04527a4a397e539a40efa25e2192a",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/types/YText.d.ts": {
+        "version": "68b79ed33fa15886f022e7107ae404e3f37b42b323892e44f0cb529666782ff8",
+        "signature": "68b79ed33fa15886f022e7107ae404e3f37b42b323892e44f0cb529666782ff8",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/types/YMap.d.ts": {
+        "version": "4ade9f7e06104562f158caedf1f769a8b21a66a7c615454dbc80f0dbebc0ba86",
+        "signature": "4ade9f7e06104562f158caedf1f769a8b21a66a7c615454dbc80f0dbebc0ba86",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/types/YXmlText.d.ts": {
+        "version": "a597bb0db47c83cff3e2ce1aab5a779176f81e9641232c731a870bc1fefe1b84",
+        "signature": "a597bb0db47c83cff3e2ce1aab5a779176f81e9641232c731a870bc1fefe1b84",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts": {
+        "version": "32af324257550af5c5699ef07cda44333073a7ddd8afde7abff9e02a21455370",
+        "signature": "32af324257550af5c5699ef07cda44333073a7ddd8afde7abff9e02a21455370",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/types/YXmlHook.d.ts": {
+        "version": "8a9064f06f6cbc30b2462837ad67b74594fb00f184a9ff086f688c68cfbce8dd",
+        "signature": "8a9064f06f6cbc30b2462837ad67b74594fb00f184a9ff086f688c68cfbce8dd",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/types/YXmlEvent.d.ts": {
+        "version": "d126152f77e5c053a43a48204e91e92ed6efda9e105cc84de6f8e8d306c9dd90",
+        "signature": "d126152f77e5c053a43a48204e91e92ed6efda9e105cc84de6f8e8d306c9dd90",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts": {
+        "version": "95819ba92a64fc431f24c9e95d4287255eae94e15017fbd6ad4ed701efd8731e",
+        "signature": "95819ba92a64fc431f24c9e95d4287255eae94e15017fbd6ad4ed701efd8731e",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/Doc.d.ts": {
+        "version": "5a749088d413fc857722507d8bb41f2a6b135a8b57b85a611f73c19642d979bb",
+        "signature": "5a749088d413fc857722507d8bb41f2a6b135a8b57b85a611f73c19642d979bb",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/AbstractConnector.d.ts": {
+        "version": "55867e1188ed1f46cbde299df51671901c9de5af5a4b53c274019ed4b08d4f34",
+        "signature": "55867e1188ed1f46cbde299df51671901c9de5af5a4b53c274019ed4b08d4f34",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/encoding.d.ts": {
+        "version": "d9b96d27372967e8f53b3f7b7cb6e875b8d128080abc4fa204a13f0d3f2b6506",
+        "signature": "d9b96d27372967e8f53b3f7b7cb6e875b8d128080abc4fa204a13f0d3f2b6506",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/isParentOf.d.ts": {
+        "version": "d41b65a0fb48a14a7b52eaa45d9b65988af076e63704cba1dd1f72e961e0e2f5",
+        "signature": "d41b65a0fb48a14a7b52eaa45d9b65988af076e63704cba1dd1f72e961e0e2f5",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/logging.d.ts": {
+        "version": "92b40a9393f937e4bd7eed4b0161ad03296607bfdf26b0bb323cde18c51e0687",
+        "signature": "92b40a9393f937e4bd7eed4b0161ad03296607bfdf26b0bb323cde18c51e0687",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/PermanentUserData.d.ts": {
+        "version": "ef4af984fed6b1d73093c2d92619690ccf43e392ad0606a813fe7eb096bfb2ca",
+        "signature": "ef4af984fed6b1d73093c2d92619690ccf43e392ad0606a813fe7eb096bfb2ca",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/RelativePosition.d.ts": {
+        "version": "7215a5c611e92a934a4280874c9844cd6b8dba4fd4523badc27203a60303c8ca",
+        "signature": "7215a5c611e92a934a4280874c9844cd6b8dba4fd4523badc27203a60303c8ca",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/UndoManager.d.ts": {
+        "version": "82d08308874e14b269c8e099b0bf1e576e28ad5585696ff83359e47a36fd5cfb",
+        "signature": "82d08308874e14b269c8e099b0bf1e576e28ad5585696ff83359e47a36fd5cfb",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/Skip.d.ts": {
+        "version": "3db81b8e01971bca76bb42aa9df43048ca1e65386548a3a6df3d54a9afba2e47",
+        "signature": "3db81b8e01971bca76bb42aa9df43048ca1e65386548a3a6df3d54a9afba2e47",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/utils/updates.d.ts": {
+        "version": "b18986bae3e480ab5b7d794feca92ae7ab0991b3b3ef975547d2c5218386d85f",
+        "signature": "b18986bae3e480ab5b7d794feca92ae7ab0991b3b3ef975547d2c5218386d85f",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/ContentBinary.d.ts": {
+        "version": "d8b6dc94bc2761afdcff7a1e29359a383472bd8af2ce03485a2792026f15f458",
+        "signature": "d8b6dc94bc2761afdcff7a1e29359a383472bd8af2ce03485a2792026f15f458",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/ContentDeleted.d.ts": {
+        "version": "1955442a305cd1622782ce89c898be431c66c39c36a253abb0543052f4917613",
+        "signature": "1955442a305cd1622782ce89c898be431c66c39c36a253abb0543052f4917613",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/ContentDoc.d.ts": {
+        "version": "2251d1a89b3d8aac866bc79839c28681886d289d117404276ecf1d4fd5f5c19c",
+        "signature": "2251d1a89b3d8aac866bc79839c28681886d289d117404276ecf1d4fd5f5c19c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/ContentEmbed.d.ts": {
+        "version": "2a55511100028e4af650f52bdd7826fb187b9eee380b7ce9249a69f0713503fa",
+        "signature": "2a55511100028e4af650f52bdd7826fb187b9eee380b7ce9249a69f0713503fa",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/ContentFormat.d.ts": {
+        "version": "af95dfea86a72f578f54d68f590a3988a97900b06f6169cdddc0bc40a4c6a918",
+        "signature": "af95dfea86a72f578f54d68f590a3988a97900b06f6169cdddc0bc40a4c6a918",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/ContentJSON.d.ts": {
+        "version": "992442834491efb053df22fb8148f8fd1303c198c97f5b50ebf1dd0f63ae5e8b",
+        "signature": "992442834491efb053df22fb8148f8fd1303c198c97f5b50ebf1dd0f63ae5e8b",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/ContentAny.d.ts": {
+        "version": "092274870bfdbb373ea502c23b8205d30e622fd10a7e5370d752a6d8de761110",
+        "signature": "092274870bfdbb373ea502c23b8205d30e622fd10a7e5370d752a6d8de761110",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/ContentString.d.ts": {
+        "version": "e86a45fac2071035f07ade063ad32754edd13f45f3f3b143387ec01b8eb8aec9",
+        "signature": "e86a45fac2071035f07ade063ad32754edd13f45f3f3b143387ec01b8eb8aec9",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/structs/ContentType.d.ts": {
+        "version": "3ceb8a1cb18a9023c08853e30461ea7661f742ccf496f32640d41e8b46a66569",
+        "signature": "3ceb8a1cb18a9023c08853e30461ea7661f742ccf496f32640d41e8b46a66569",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/internals.d.ts": {
+        "version": "819ff6185962272453fe11af8d9f3da27f5d3761b21e196272db43ff54e4caa4",
+        "signature": "819ff6185962272453fe11af8d9f3da27f5d3761b21e196272db43ff54e4caa4",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/yjs/dist/src/index.d.ts": {
+        "version": "6eabe9d921cfd15b9faec6b931158b2719ca827dbb5fba4d6a3cf45701d91f51",
+        "signature": "6eabe9d921cfd15b9faec6b931158b2719ca827dbb5fba4d6a3cf45701d91f51",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/y-protocols/awareness.d.ts": {
+        "version": "6b630576d462988579afb9ad6b59f4475e3d87a4d105e52ff041263d23760283",
+        "signature": "6b630576d462988579afb9ad6b59f4475e3d87a4d105e52ff041263d23760283",
+        "affectsGlobalScope": false
+      },
+      "../shared-models/lib/ymodels.d.ts": {
+        "version": "24e0323c6427ccbe0c25e78b01f9b57a0495f81ac42bf660b937959a41bd17ce",
+        "signature": "24e0323c6427ccbe0c25e78b01f9b57a0495f81ac42bf660b937959a41bd17ce",
+        "affectsGlobalScope": false
+      },
+      "../shared-models/lib/utils.d.ts": {
+        "version": "fd875d9215c67e7939a2a838f59fb5bf2475f6599b0e790268e0959c8132ad56",
+        "signature": "fd875d9215c67e7939a2a838f59fb5bf2475f6599b0e790268e0959c8132ad56",
+        "affectsGlobalScope": false
+      },
+      "../shared-models/lib/index.d.ts": {
+        "version": "efe52b1bf1ee21354919672cd5b1e5a90ca660b44c1698daa9dede23df247ea9",
+        "signature": "efe52b1bf1ee21354919672cd5b1e5a90ca660b44c1698daa9dede23df247ea9",
+        "affectsGlobalScope": false
+      },
+      "./src/tokens.ts": {
+        "version": "28ba94bba5e8ca9945b28dada1043054909b2275351efd0269edf0f88da3af65",
+        "signature": "584da1361a13e620b326f52d3afc5f1320414821e974162ee2ff48e17bb17ce7",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/lib0/mutex.d.ts": {
+        "version": "450c3f3ce95c5411b719e9347359f7f04bacaf0e5a1636e6afabf5643864ce3b",
+        "signature": "450c3f3ce95c5411b719e9347359f7f04bacaf0e5a1636e6afabf5643864ce3b",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/y-websocket/dist/src/y-websocket.d.ts": {
+        "version": "18c619fbef9c15313fab6df95ea47a4eeee55a8e703e1c819d602ee1987e353c",
+        "signature": "18c619fbef9c15313fab6df95ea47a4eeee55a8e703e1c819d602ee1987e353c",
+        "affectsGlobalScope": false
+      },
+      "./src/yprovider.ts": {
+        "version": "68a847a7844d5c87a2e784a328408c367cfb8e49998dab4992a3d08584602d30",
+        "signature": "00922c3bcaac6b66323468e79fbb1199d7d2a4ac62d0649a46248c1f55321d83",
+        "affectsGlobalScope": false
+      },
+      "./src/index.ts": {
+        "version": "0fc2a827931e50d78fcce2df54f9905a59569cbc7161d24b1abe317cb2302894",
+        "signature": "8d2385fb48865b7b11af8ade032494987a9d3f2b1478bc0d72333570a05ede67",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "allowSyntheticDefaultImports": true,
+      "composite": true,
+      "declaration": true,
+      "esModuleInterop": true,
+      "incremental": true,
+      "jsx": 2,
+      "module": 99,
+      "moduleResolution": 2,
+      "noEmitOnError": true,
+      "noImplicitAny": true,
+      "noUnusedLocals": true,
+      "preserveWatchOutput": true,
+      "resolveJsonModule": true,
+      "sourceMap": true,
+      "strictNullChecks": true,
+      "target": 4,
+      "types": [],
+      "outDir": "./lib",
+      "rootDir": "./src",
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "../../node_modules/@lumino/algorithm/types/chain.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/empty.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/enumerate.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/filter.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/find.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/index.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/array.d.ts",
+        "../../node_modules/@lumino/algorithm/types/chain.d.ts",
+        "../../node_modules/@lumino/algorithm/types/empty.d.ts",
+        "../../node_modules/@lumino/algorithm/types/enumerate.d.ts",
+        "../../node_modules/@lumino/algorithm/types/filter.d.ts",
+        "../../node_modules/@lumino/algorithm/types/find.d.ts",
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts",
+        "../../node_modules/@lumino/algorithm/types/map.d.ts",
+        "../../node_modules/@lumino/algorithm/types/range.d.ts",
+        "../../node_modules/@lumino/algorithm/types/reduce.d.ts",
+        "../../node_modules/@lumino/algorithm/types/repeat.d.ts",
+        "../../node_modules/@lumino/algorithm/types/retro.d.ts",
+        "../../node_modules/@lumino/algorithm/types/sort.d.ts",
+        "../../node_modules/@lumino/algorithm/types/stride.d.ts",
+        "../../node_modules/@lumino/algorithm/types/string.d.ts",
+        "../../node_modules/@lumino/algorithm/types/take.d.ts",
+        "../../node_modules/@lumino/algorithm/types/zip.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/map.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/range.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/reduce.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/repeat.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/retro.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/sort.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/stride.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/take.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/zip.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/coreutils/types/index.common.d.ts": [
+        "../../node_modules/@lumino/coreutils/types/json.d.ts",
+        "../../node_modules/@lumino/coreutils/types/mime.d.ts",
+        "../../node_modules/@lumino/coreutils/types/promise.d.ts",
+        "../../node_modules/@lumino/coreutils/types/token.d.ts"
+      ],
+      "../../node_modules/@lumino/coreutils/types/index.d.ts": [
+        "../../node_modules/@lumino/coreutils/types/index.common.d.ts",
+        "../../node_modules/@lumino/coreutils/types/random.browser.d.ts",
+        "../../node_modules/@lumino/coreutils/types/uuid.browser.d.ts"
+      ],
+      "../../node_modules/@lumino/coreutils/types/random.browser.d.ts": [
+        "../../node_modules/@lumino/coreutils/types/random.d.ts"
+      ],
+      "../../node_modules/@lumino/disposable/types/index.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/index.d.ts",
+        "../../node_modules/@lumino/signaling/types/index.d.ts"
+      ],
+      "../../node_modules/y-protocols/awareness.d.ts": [
+        "../../node_modules/lib0/observable.d.ts",
+        "../../node_modules/yjs/dist/src/index.d.ts"
+      ],
+      "../../node_modules/y-websocket/dist/src/y-websocket.d.ts": [
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/lib0/encoding.d.ts",
+        "../../node_modules/lib0/mutex.d.ts",
+        "../../node_modules/lib0/observable.d.ts",
+        "../../node_modules/y-protocols/awareness.d.ts",
+        "../../node_modules/yjs/dist/src/index.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/index.d.ts": [
+        "../../node_modules/yjs/dist/src/internals.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/internals.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentAny.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentBinary.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentDeleted.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentDoc.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentEmbed.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentFormat.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentJSON.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentString.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentType.d.ts",
+        "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Skip.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/types/YArray.d.ts",
+        "../../node_modules/yjs/dist/src/types/YMap.d.ts",
+        "../../node_modules/yjs/dist/src/types/YText.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlEvent.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlHook.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlText.d.ts",
+        "../../node_modules/yjs/dist/src/utils/AbstractConnector.d.ts",
+        "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/EventHandler.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/PermanentUserData.d.ts",
+        "../../node_modules/yjs/dist/src/utils/RelativePosition.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UndoManager.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts",
+        "../../node_modules/yjs/dist/src/utils/encoding.d.ts",
+        "../../node_modules/yjs/dist/src/utils/isParentOf.d.ts",
+        "../../node_modules/yjs/dist/src/utils/logging.d.ts",
+        "../../node_modules/yjs/dist/src/utils/updates.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts": [
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentAny.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentBinary.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentDeleted.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentDoc.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentEmbed.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentFormat.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentJSON.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentString.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentType.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/GC.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/Item.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/Skip.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/AbstractType.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/EventHandler.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YArray.d.ts": [
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YMap.d.ts": [
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YText.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts": [
+        "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlText.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YXmlEvent.d.ts": [
+        "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlText.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlEvent.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlHook.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlText.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YXmlHook.d.ts": [
+        "../../node_modules/yjs/dist/src/types/YMap.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YXmlText.d.ts": [
+        "../../node_modules/yjs/dist/src/types/YText.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/AbstractConnector.d.ts": [
+        "../../node_modules/lib0/observable.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/Doc.d.ts": [
+        "../../node_modules/lib0/observable.d.ts",
+        "../../node_modules/lib0/random.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/types/YArray.d.ts",
+        "../../node_modules/yjs/dist/src/types/YMap.d.ts",
+        "../../node_modules/yjs/dist/src/types/YText.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/ID.d.ts": [
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/lib0/encoding.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/PermanentUserData.d.ts": [
+        "../../node_modules/yjs/dist/src/types/YMap.d.ts",
+        "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/RelativePosition.d.ts": [
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/lib0/encoding.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/StructStore.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/Transaction.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/UndoManager.d.ts": [
+        "../../node_modules/lib0/observable.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts": [
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts": [
+        "../../node_modules/lib0/encoding.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/YEvent.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/encoding.d.ts": [
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/isParentOf.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/logging.d.ts": [
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/updates.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Skip.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "./src/index.ts": [
+        "./src/awareness.ts",
+        "./src/mock.ts",
+        "./src/tokens.ts",
+        "./src/yprovider.ts"
+      ],
+      "./src/mock.ts": [
+        "./src/index.ts"
+      ],
+      "./src/tokens.ts": [
+        "../../node_modules/@lumino/coreutils/types/index.d.ts",
+        "../shared-models/lib/index.d.ts"
+      ],
+      "./src/yprovider.ts": [
+        "../../node_modules/@lumino/coreutils/types/index.d.ts",
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/lib0/encoding.d.ts",
+        "../../node_modules/y-websocket/dist/src/y-websocket.d.ts",
+        "../../node_modules/yjs/dist/src/index.d.ts",
+        "./src/awareness.ts",
+        "./src/tokens.ts"
+      ],
+      "../nbformat/lib/index.d.ts": [
+        "../../node_modules/@lumino/coreutils/types/index.d.ts"
+      ],
+      "../shared-models/lib/api.d.ts": [
+        "../../node_modules/@lumino/coreutils/types/index.d.ts",
+        "../../node_modules/@lumino/disposable/types/index.d.ts",
+        "../../node_modules/@lumino/signaling/types/index.d.ts",
+        "../nbformat/lib/index.d.ts"
+      ],
+      "../shared-models/lib/index.d.ts": [
+        "../shared-models/lib/api.d.ts",
+        "../shared-models/lib/utils.d.ts",
+        "../shared-models/lib/ymodels.d.ts"
+      ],
+      "../shared-models/lib/utils.d.ts": [
+        "../../node_modules/yjs/dist/src/index.d.ts",
+        "../shared-models/lib/api.d.ts"
+      ],
+      "../shared-models/lib/ymodels.d.ts": [
+        "../../node_modules/@lumino/signaling/types/index.d.ts",
+        "../../node_modules/y-protocols/awareness.d.ts",
+        "../../node_modules/yjs/dist/src/index.d.ts",
+        "../nbformat/lib/index.d.ts",
+        "../shared-models/lib/api.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../../node_modules/@lumino/algorithm/types/chain.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/empty.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/enumerate.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/filter.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/find.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/index.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/array.d.ts",
+        "../../node_modules/@lumino/algorithm/types/chain.d.ts",
+        "../../node_modules/@lumino/algorithm/types/empty.d.ts",
+        "../../node_modules/@lumino/algorithm/types/enumerate.d.ts",
+        "../../node_modules/@lumino/algorithm/types/filter.d.ts",
+        "../../node_modules/@lumino/algorithm/types/find.d.ts",
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts",
+        "../../node_modules/@lumino/algorithm/types/map.d.ts",
+        "../../node_modules/@lumino/algorithm/types/range.d.ts",
+        "../../node_modules/@lumino/algorithm/types/reduce.d.ts",
+        "../../node_modules/@lumino/algorithm/types/repeat.d.ts",
+        "../../node_modules/@lumino/algorithm/types/retro.d.ts",
+        "../../node_modules/@lumino/algorithm/types/sort.d.ts",
+        "../../node_modules/@lumino/algorithm/types/stride.d.ts",
+        "../../node_modules/@lumino/algorithm/types/string.d.ts",
+        "../../node_modules/@lumino/algorithm/types/take.d.ts",
+        "../../node_modules/@lumino/algorithm/types/zip.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/map.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/range.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/reduce.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/repeat.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/retro.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/sort.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/stride.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/take.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/algorithm/types/zip.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/iter.d.ts"
+      ],
+      "../../node_modules/@lumino/coreutils/types/index.common.d.ts": [
+        "../../node_modules/@lumino/coreutils/types/json.d.ts",
+        "../../node_modules/@lumino/coreutils/types/mime.d.ts",
+        "../../node_modules/@lumino/coreutils/types/promise.d.ts",
+        "../../node_modules/@lumino/coreutils/types/token.d.ts"
+      ],
+      "../../node_modules/@lumino/coreutils/types/index.d.ts": [
+        "../../node_modules/@lumino/coreutils/types/index.common.d.ts",
+        "../../node_modules/@lumino/coreutils/types/random.browser.d.ts",
+        "../../node_modules/@lumino/coreutils/types/uuid.browser.d.ts"
+      ],
+      "../../node_modules/@lumino/coreutils/types/random.browser.d.ts": [
+        "../../node_modules/@lumino/coreutils/types/random.d.ts"
+      ],
+      "../../node_modules/@lumino/disposable/types/index.d.ts": [
+        "../../node_modules/@lumino/algorithm/types/index.d.ts",
+        "../../node_modules/@lumino/signaling/types/index.d.ts"
+      ],
+      "../../node_modules/y-protocols/awareness.d.ts": [
+        "../../node_modules/lib0/observable.d.ts",
+        "../../node_modules/yjs/dist/src/index.d.ts"
+      ],
+      "../../node_modules/y-websocket/dist/src/y-websocket.d.ts": [
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/lib0/encoding.d.ts",
+        "../../node_modules/lib0/mutex.d.ts",
+        "../../node_modules/lib0/observable.d.ts",
+        "../../node_modules/y-protocols/awareness.d.ts",
+        "../../node_modules/yjs/dist/src/index.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/index.d.ts": [
+        "../../node_modules/yjs/dist/src/internals.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/internals.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentAny.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentBinary.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentDeleted.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentDoc.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentEmbed.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentFormat.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentJSON.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentString.d.ts",
+        "../../node_modules/yjs/dist/src/structs/ContentType.d.ts",
+        "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Skip.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/types/YArray.d.ts",
+        "../../node_modules/yjs/dist/src/types/YMap.d.ts",
+        "../../node_modules/yjs/dist/src/types/YText.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlEvent.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlHook.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlText.d.ts",
+        "../../node_modules/yjs/dist/src/utils/AbstractConnector.d.ts",
+        "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/EventHandler.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/PermanentUserData.d.ts",
+        "../../node_modules/yjs/dist/src/utils/RelativePosition.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UndoManager.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts",
+        "../../node_modules/yjs/dist/src/utils/encoding.d.ts",
+        "../../node_modules/yjs/dist/src/utils/isParentOf.d.ts",
+        "../../node_modules/yjs/dist/src/utils/logging.d.ts",
+        "../../node_modules/yjs/dist/src/utils/updates.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts": [
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentAny.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentBinary.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentDeleted.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentDoc.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentEmbed.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentFormat.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentJSON.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentString.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/ContentType.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/GC.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/Item.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/structs/Skip.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/AbstractType.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/EventHandler.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YArray.d.ts": [
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YMap.d.ts": [
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YText.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts": [
+        "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlText.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YXmlEvent.d.ts": [
+        "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlText.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlEvent.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlHook.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlText.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YXmlHook.d.ts": [
+        "../../node_modules/yjs/dist/src/types/YMap.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/types/YXmlText.d.ts": [
+        "../../node_modules/yjs/dist/src/types/YText.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/AbstractConnector.d.ts": [
+        "../../node_modules/lib0/observable.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/Doc.d.ts": [
+        "../../node_modules/lib0/observable.d.ts",
+        "../../node_modules/lib0/random.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/types/YArray.d.ts",
+        "../../node_modules/yjs/dist/src/types/YMap.d.ts",
+        "../../node_modules/yjs/dist/src/types/YText.d.ts",
+        "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/ID.d.ts": [
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/lib0/encoding.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/PermanentUserData.d.ts": [
+        "../../node_modules/yjs/dist/src/types/YMap.d.ts",
+        "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/RelativePosition.d.ts": [
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/lib0/encoding.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/StructStore.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/Transaction.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/YEvent.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/UndoManager.d.ts": [
+        "../../node_modules/lib0/observable.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts": [
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts": [
+        "../../node_modules/lib0/encoding.d.ts",
+        "../../node_modules/yjs/dist/src/utils/ID.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/YEvent.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/encoding.d.ts": [
+        "../../node_modules/lib0/decoding.d.ts",
+        "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+        "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+        "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/isParentOf.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/logging.d.ts": [
+        "../../node_modules/yjs/dist/src/types/AbstractType.d.ts"
+      ],
+      "../../node_modules/yjs/dist/src/utils/updates.d.ts": [
+        "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+        "../../node_modules/yjs/dist/src/structs/Skip.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+        "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts"
+      ],
+      "./src/index.ts": [
+        "./src/awareness.ts",
+        "./src/mock.ts",
+        "./src/tokens.ts",
+        "./src/yprovider.ts"
+      ],
+      "./src/mock.ts": [
+        "./src/index.ts"
+      ],
+      "./src/tokens.ts": [
+        "../../node_modules/@lumino/coreutils/types/index.d.ts",
+        "../shared-models/lib/index.d.ts"
+      ],
+      "./src/yprovider.ts": [
+        "../../node_modules/y-websocket/dist/src/y-websocket.d.ts",
+        "./src/tokens.ts"
+      ],
+      "../nbformat/lib/index.d.ts": [
+        "../../node_modules/@lumino/coreutils/types/index.d.ts"
+      ],
+      "../shared-models/lib/api.d.ts": [
+        "../../node_modules/@lumino/coreutils/types/index.d.ts",
+        "../../node_modules/@lumino/disposable/types/index.d.ts",
+        "../../node_modules/@lumino/signaling/types/index.d.ts",
+        "../nbformat/lib/index.d.ts"
+      ],
+      "../shared-models/lib/index.d.ts": [
+        "../shared-models/lib/api.d.ts",
+        "../shared-models/lib/utils.d.ts",
+        "../shared-models/lib/ymodels.d.ts"
+      ],
+      "../shared-models/lib/utils.d.ts": [
+        "../../node_modules/yjs/dist/src/index.d.ts",
+        "../shared-models/lib/api.d.ts"
+      ],
+      "../shared-models/lib/ymodels.d.ts": [
+        "../../node_modules/@lumino/signaling/types/index.d.ts",
+        "../../node_modules/y-protocols/awareness.d.ts",
+        "../../node_modules/yjs/dist/src/index.d.ts",
+        "../nbformat/lib/index.d.ts",
+        "../shared-models/lib/api.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../node_modules/@lumino/algorithm/types/array.d.ts",
+      "../../node_modules/@lumino/algorithm/types/chain.d.ts",
+      "../../node_modules/@lumino/algorithm/types/empty.d.ts",
+      "../../node_modules/@lumino/algorithm/types/enumerate.d.ts",
+      "../../node_modules/@lumino/algorithm/types/filter.d.ts",
+      "../../node_modules/@lumino/algorithm/types/find.d.ts",
+      "../../node_modules/@lumino/algorithm/types/index.d.ts",
+      "../../node_modules/@lumino/algorithm/types/iter.d.ts",
+      "../../node_modules/@lumino/algorithm/types/map.d.ts",
+      "../../node_modules/@lumino/algorithm/types/range.d.ts",
+      "../../node_modules/@lumino/algorithm/types/reduce.d.ts",
+      "../../node_modules/@lumino/algorithm/types/repeat.d.ts",
+      "../../node_modules/@lumino/algorithm/types/retro.d.ts",
+      "../../node_modules/@lumino/algorithm/types/sort.d.ts",
+      "../../node_modules/@lumino/algorithm/types/stride.d.ts",
+      "../../node_modules/@lumino/algorithm/types/string.d.ts",
+      "../../node_modules/@lumino/algorithm/types/take.d.ts",
+      "../../node_modules/@lumino/algorithm/types/zip.d.ts",
+      "../../node_modules/@lumino/coreutils/types/index.common.d.ts",
+      "../../node_modules/@lumino/coreutils/types/index.d.ts",
+      "../../node_modules/@lumino/coreutils/types/json.d.ts",
+      "../../node_modules/@lumino/coreutils/types/mime.d.ts",
+      "../../node_modules/@lumino/coreutils/types/promise.d.ts",
+      "../../node_modules/@lumino/coreutils/types/random.browser.d.ts",
+      "../../node_modules/@lumino/coreutils/types/random.d.ts",
+      "../../node_modules/@lumino/coreutils/types/token.d.ts",
+      "../../node_modules/@lumino/coreutils/types/uuid.browser.d.ts",
+      "../../node_modules/@lumino/disposable/types/index.d.ts",
+      "../../node_modules/@lumino/signaling/types/index.d.ts",
+      "../../node_modules/lib0/decoding.d.ts",
+      "../../node_modules/lib0/encoding.d.ts",
+      "../../node_modules/lib0/mutex.d.ts",
+      "../../node_modules/lib0/observable.d.ts",
+      "../../node_modules/lib0/random.d.ts",
+      "../../node_modules/typescript/lib/lib.dom.d.ts",
+      "../../node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.full.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../../node_modules/typescript/lib/lib.es5.d.ts",
+      "../../node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../../node_modules/y-protocols/awareness.d.ts",
+      "../../node_modules/y-websocket/dist/src/y-websocket.d.ts",
+      "../../node_modules/yjs/dist/src/index.d.ts",
+      "../../node_modules/yjs/dist/src/internals.d.ts",
+      "../../node_modules/yjs/dist/src/structs/AbstractStruct.d.ts",
+      "../../node_modules/yjs/dist/src/structs/ContentAny.d.ts",
+      "../../node_modules/yjs/dist/src/structs/ContentBinary.d.ts",
+      "../../node_modules/yjs/dist/src/structs/ContentDeleted.d.ts",
+      "../../node_modules/yjs/dist/src/structs/ContentDoc.d.ts",
+      "../../node_modules/yjs/dist/src/structs/ContentEmbed.d.ts",
+      "../../node_modules/yjs/dist/src/structs/ContentFormat.d.ts",
+      "../../node_modules/yjs/dist/src/structs/ContentJSON.d.ts",
+      "../../node_modules/yjs/dist/src/structs/ContentString.d.ts",
+      "../../node_modules/yjs/dist/src/structs/ContentType.d.ts",
+      "../../node_modules/yjs/dist/src/structs/GC.d.ts",
+      "../../node_modules/yjs/dist/src/structs/Item.d.ts",
+      "../../node_modules/yjs/dist/src/structs/Skip.d.ts",
+      "../../node_modules/yjs/dist/src/types/AbstractType.d.ts",
+      "../../node_modules/yjs/dist/src/types/YArray.d.ts",
+      "../../node_modules/yjs/dist/src/types/YMap.d.ts",
+      "../../node_modules/yjs/dist/src/types/YText.d.ts",
+      "../../node_modules/yjs/dist/src/types/YXmlElement.d.ts",
+      "../../node_modules/yjs/dist/src/types/YXmlEvent.d.ts",
+      "../../node_modules/yjs/dist/src/types/YXmlFragment.d.ts",
+      "../../node_modules/yjs/dist/src/types/YXmlHook.d.ts",
+      "../../node_modules/yjs/dist/src/types/YXmlText.d.ts",
+      "../../node_modules/yjs/dist/src/utils/AbstractConnector.d.ts",
+      "../../node_modules/yjs/dist/src/utils/DeleteSet.d.ts",
+      "../../node_modules/yjs/dist/src/utils/Doc.d.ts",
+      "../../node_modules/yjs/dist/src/utils/EventHandler.d.ts",
+      "../../node_modules/yjs/dist/src/utils/ID.d.ts",
+      "../../node_modules/yjs/dist/src/utils/PermanentUserData.d.ts",
+      "../../node_modules/yjs/dist/src/utils/RelativePosition.d.ts",
+      "../../node_modules/yjs/dist/src/utils/Snapshot.d.ts",
+      "../../node_modules/yjs/dist/src/utils/StructStore.d.ts",
+      "../../node_modules/yjs/dist/src/utils/Transaction.d.ts",
+      "../../node_modules/yjs/dist/src/utils/UndoManager.d.ts",
+      "../../node_modules/yjs/dist/src/utils/UpdateDecoder.d.ts",
+      "../../node_modules/yjs/dist/src/utils/UpdateEncoder.d.ts",
+      "../../node_modules/yjs/dist/src/utils/YEvent.d.ts",
+      "../../node_modules/yjs/dist/src/utils/encoding.d.ts",
+      "../../node_modules/yjs/dist/src/utils/isParentOf.d.ts",
+      "../../node_modules/yjs/dist/src/utils/logging.d.ts",
+      "../../node_modules/yjs/dist/src/utils/updates.d.ts",
+      "./src/awareness.ts",
+      "./src/index.ts",
+      "./src/mock.ts",
+      "./src/tokens.ts",
+      "./src/yprovider.ts",
+      "../nbformat/lib/index.d.ts",
+      "../shared-models/lib/api.d.ts",
+      "../shared-models/lib/index.d.ts",
+      "../shared-models/lib/utils.d.ts",
+      "../shared-models/lib/ymodels.d.ts"
+    ]
+  },
+  "version": "4.1.6"
+}
