@@ -1,0 +1,119 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: jupyter-gschoi
+  name: jupyter-gschoi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: jupyter-gschoi
+  template:
+    metadata:
+      labels:
+        app: jupyter-gschoi
+    spec:
+      containers:  
+      - command:
+        - /bin/bash
+        - -c
+        - |
+          start.sh jupyter lab \
+          --core-mode \
+          --ServerApp.password='sha256::5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8' \
+          --ServerApp.ip='0.0.0.0' \
+          --ServerApp.allow_origin='*' \
+          --ServerApp.cookie_options="max-age=28800" \
+          --ServerApp.disable_check_xsrf=True  \
+          --ServerApp.quit_button=False \
+          --ServerApp.allow_root=True \
+          --ServerApp.root_dir=/jlab
+          --ServerApp.terminals_enabled=False
+        image: cgshome2/secure-notebook
+        imagePullPolicy: Always
+        name: jupyter-gschoi
+        ports:
+        - containerPort: 8888
+          protocol: TCP
+        resources:
+          limits:
+            nvidia.com/gpu: "1"
+          requests:
+            cpu: 250m
+            memory: 500Mi
+            ephemeral-storage: 20Gi
+        volumeMounts:
+        - mountPath: /jlab
+          name: jupyter-data
+      securityContext:
+        runAsUser: 1000
+        fsGroup: 100
+      imagePullSecrets:
+      - name: regcred    
+      volumes:
+      - name: jupyter-data
+        persistentVolumeClaim:
+          claimName: jupyter-gschoi-pvc
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    name: jupyter-gschoi
+  name: jupyter-gschoi
+spec:
+  ports:
+  - name: http
+    port: 80
+    protocol: TCP
+    targetPort: 8888
+  selector:
+    app: jupyter-gschoi
+
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: jupyter-gschoi-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 10Gi
+  storageClassName: longhorn
+
+---
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
+  name: jupyter-gschoi
+spec:
+  rules:
+  - host: jupyter-gschoi.yourdomain.com
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: jupyter-gschoi
+          servicePort: 80
+              
+#---
+#apiVersion: networking.k8s.io/v1
+#kind: Ingress
+#metadata:
+#  name: jupyter-gschoi
+#spec:
+#  rules:
+#  - host: jupyter-gschoi.yourdomain.com
+#    http:
+#      paths:
+#      - path: /
+#        pathType: Prefix
+#        backend:
+#          service: 
+#            name: jupyter-gschoi
+#            port: 
+#              number: 80
