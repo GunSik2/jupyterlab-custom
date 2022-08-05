@@ -23,14 +23,14 @@ spec:
           --core-mode \
           --ServerApp.password='sha256::5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8' \
           --ServerApp.ip='0.0.0.0' \
+          --ServerApp.allow_root=False \
           --ServerApp.allow_origin='*' \
-          --ServerApp.cookie_options="max-age=28800" \
           --ServerApp.disable_check_xsrf=True  \
+          --ServerApp.cookie_options="max-age=28800" \
           --ServerApp.quit_button=False \
-          --ServerApp.allow_root=True \
-          --ServerApp.root_dir=/jlab
+          --ServerApp.root_dir=/home/jovyan/work
           --ServerApp.terminals_enabled=False
-        image: cgshome2/secure-notebook
+        image: cgshome2/torch-notebook:cuda11.3
         imagePullPolicy: Always
         name: jupyter-gschoi
         ports:
@@ -44,8 +44,10 @@ spec:
             memory: 500Mi
             ephemeral-storage: 20Gi
         volumeMounts:
-        - mountPath: /jlab
+        - mountPath: /home/jovyan/work
           name: jupyter-data
+        - mountPath: /etc/localtime
+          name: tz-config
       securityContext:
         runAsUser: 1000
         fsGroup: 100
@@ -55,6 +57,9 @@ spec:
       - name: jupyter-data
         persistentVolumeClaim:
           claimName: jupyter-gschoi-pvc
+      - name: tz-config          
+        hostPath:
+          path: /usr/share/zoneinfo/Asia/Seoul
 
 ---
 apiVersion: v1
@@ -92,10 +97,11 @@ metadata:
   name: jupyter-gschoi
 spec:
   rules:
-  - host: jupyter-gschoi.yourdomain.com
+  - host: jupyter-gschoi.yourdomain.com 
     http:
       paths:
       - path: /
+        pathType: Prefix
         backend:
           serviceName: jupyter-gschoi
           servicePort: 80
