@@ -1,0 +1,7 @@
+FROM cgshome2/secure-notebook
+
+# To protect CUDA_UNKNOWN_ERROR
+ENV NVIDIA_VISIBLE_DEVICES all
+ENV NVIDIA_DRIVER_CAPABILITIES compute,utility
+
+

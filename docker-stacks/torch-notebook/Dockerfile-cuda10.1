@@ -1,6 +1,9 @@
-FROM cgshome2/secure-notebook
+FROM cgshome2/gpu-notebook
 
-RUN /bin/bash -c "conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10.1 -c pytorch -y"
+RUN /bin/bash -c "conda install pytorch==1.7.0 torchvision==0.8.0 torchaudio==0.7.0 cudatoolkit=10.1 -c pytorch -y" 
+# Failed: RUN /bin/bash -c "conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10.1 -c pytorch -y"
+#RUN /bin/bash -c "conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.1 -c pytorch -y"
+#RUN /bin/bash -c "conda install pytorch==1.5.1 torchvision==0.6.1 cudatoolkit=10.1 -c pytorch -y"
 
 # Source: https://pytorch.org/get-started/previous-versions/
 #
@@ -9,4 +12,4 @@ RUN /bin/bash -c "conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.
 # CUDA 11.3
 #conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
 # CUDA 10.1
-conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10.1 -c pytorch
+#conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10.1 -c pytorch

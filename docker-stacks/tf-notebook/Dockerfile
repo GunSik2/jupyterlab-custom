@@ -1,4 +1,4 @@
-FROM cgshome2/secure-notebook
+FROM cgshome2/gpu-notebook
 
 RUN /bin/bash -c "conda install tensorflow-gpu==2.6.2 -y"
 # CUDA 11.2 & cuDNN 8.1 (2.5.0, 2.6.0, 2.7.0)  
